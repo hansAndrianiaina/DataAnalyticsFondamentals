@@ -161,8 +161,13 @@ Practice Datasets:
 
 ## 🔁 Suggested Learning Path
 
-```text
-1. Understand Concepts → 2. Learn Tools → 3. Practice Projects → 4. Build Portfolio → 5. Apply for Jobs
+```mermaid
+flowchart LR
+    A[1. Understand Concepts] --> B[2. Learn Tools]
+    B --> C[3. Practice Projects]
+    C --> D[4. Build Portfolio]
+    D --> E[5. Apply for Jobs]
+
 ```
 
 Start with small projects, gradually increase complexity, and showcase your work on platforms like GitHub or LinkedIn.
