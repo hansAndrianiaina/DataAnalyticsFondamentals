@@ -163,10 +163,10 @@ Practice Datasets:
 
 ```mermaid
 flowchart LR
-    A[1. Understand Concepts] --> B[2. Learn Tools]
-    B --> C[3. Practice Projects]
-    C --> D[4. Build Portfolio]
-    D --> E[5. Apply for Jobs]
+    A[Understand Concepts] --> B[Learn Tools]
+    B --> C[Practice Projects]
+    C --> D[Build Portfolio]
+    D --> E[Apply for Jobs]
 
 ```
 
